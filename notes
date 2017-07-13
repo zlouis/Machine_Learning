@@ -2,3 +2,22 @@
 // example: what is the vector of A?
 // Answer: 15 degree magnitude horizontally at 12 meters/second. A is also then a velocity vector.
 //
+//supervise learning
+//Classification: A classification problem is when the output variable is a category, such as “red” or “blue” or “disease” and “no disease”.
+//Regression: A regression problem is when the output variable is a real value, such as “dollars” or “weight”.
+//
+//
+
+//unsupervise learning: Algorithms are left to their own devises to discover and present the interesting structure in the data.
+// when there is no output "y" and only f(x) 
+// Clustering: A clustering problem is where you want to discover the inherent groupings in the data, such as grouping customers by 
+// purchasing behavior.
+// Association:  An association rule learning problem is where you want to discover rules that describe large portions of your data,
+// such as people that buy X also tend to buy Y
+//EXAMPLES
+//k-means for clustering problems.
+//Apriori algorithm for association rule learning problems
+
+
+// semi supervise learning: large input of x and only some output of y.
+//example is a photo archive where only some of the images are labeled, (e.g. dog, cat, person) and the majority are unlabeled.
